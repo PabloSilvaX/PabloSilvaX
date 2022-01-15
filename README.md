@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablosilvax&label=Profile%20views&color=af45e8&style=flat" alt="pablosilvax" /> </p>
 
-- 🌱 Estudando no Momento: **Sass**.
+- 🌱 Estudando no Momento: **Node.js**.
 
 - 💬 Pergunte-me sobre: **PHP, React.js, JavaScript**.
 
